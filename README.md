@@ -27,6 +27,7 @@ crc-32氏が作成したもので、自分がそれを少し弄っただけの�
 ## クレジット
 Thanks to <br />
 crc-32<br />
+mamosuke<br />
 
 ## コンタクト
 https://twitter.com/Cloud0835
