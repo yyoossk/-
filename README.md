@@ -6,12 +6,12 @@
 
 ## 内容
 - yyoosskのメモ(更新順)
-- yyoosskのメモ(ニンテンドースイッチニュース)
+- yyoosskのメモ(ニンテンドースイッチニュース)  yyoossk's-memo-switch-news
 - yyoosskのメモ(ブログアーカイブ)
 - 大人のためのゲーム講座
 
 ## ダウンロード
-https://github.com/yyoossk/Atmosphere-with-Hekate/releases
+https://github.com/yyoossk/blog-browser/releases
 
 ## 使用方法
 入れたいものをダウンロード＆解凍し、switchフォルダをsdカードのルートに上書きコピーし、hbmより起動
