@@ -5,10 +5,10 @@
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
 ## 内容
-- yyoosskのメモ(更新順) yyoossk's-memo-news
+- yyoosskのメモ(更新順)　yyoossk's-memo-news
 - yyoosskのメモ(ニンテンドースイッチニュース)  yyoossk's-memo-switch-news
-- yyoosskのメモ(ブログアーカイブ) yyoossk's-memo-blogarcive
-- 大人のためのゲーム講座
+- yyoosskのメモ(ブログアーカイブ)　yyoossk's-memo-blogarcive
+- 大人のためのゲーム講座　otona-no-tame-no-game-kouza
 
 ## ダウンロード
 https://github.com/yyoossk/blog-browser/releases
@@ -16,7 +16,8 @@ https://github.com/yyoossk/blog-browser/releases
 ## 使用方法
 入れたいものをダウンロード＆解凍し、switchフォルダをsdカードのルートに上書きコピーし、hbmより起動
 又は、上記を導入した上で、ホーム画面から直接起動できるフォーワーダーのnspをインストール
-
+なぜか一つだけしかnspファイルの作成ができませんでした
+原因が分かり次第追加します
 
 これはインターネットブラウザを起動できるBrowseNXのソースコードの本の一部を弄ってコンパイルしたものです<br />
 https://yyoossk.blogspot.com/2019/01/browsenx.html<br />
