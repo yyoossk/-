@@ -5,9 +5,9 @@
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
 ## 内容
-- yyoosskのメモ(更新順)
+- yyoosskのメモ(更新順) yyoossk's-memo-news
 - yyoosskのメモ(ニンテンドースイッチニュース)  yyoossk's-memo-switch-news
-- yyoosskのメモ(ブログアーカイブ)
+- yyoosskのメモ(ブログアーカイブ) yyoossk's-memo-blogarcive
 - 大人のためのゲーム講座
 
 ## ダウンロード
