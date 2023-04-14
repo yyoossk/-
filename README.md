@@ -7,8 +7,9 @@
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
 ## 内容
-- yyoosskのメモ(ホーム画面バージョン)
+- yyoosskのメモ(更新順)
 - yyoosskのメモ(ニンテンドースイッチニュース)
+- yyoosskのメモ(ブログアーカイブ)
 - 大人のためのゲーム講座
 
 ## ダウンロード
