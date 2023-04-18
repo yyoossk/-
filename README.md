@@ -6,16 +6,16 @@
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
 ## 概要
-これはインターネットブラウザを起動できるBrowseNXのソースコードの本の一部を弄ってコンパイルしたものです<br />
+これはインターネットブラウザを起動できるBrowseNXのソースコードのほんの一部を弄ってコンパイルしたものです<br />
 https://yyoossk.blogspot.com/2019/01/browsenx.html<br />
 https://github.com/crc-32/BrowseNX<br />
-crc-32氏が作成したもので、自分がそれを少し弄っただけのものです<br />
+crc-32氏が作成したもので、自分がそれを少し弄っただけなので特別新しいものではありません<br />
 
 ## 内容
+- 大人のためのゲーム講座　otona-no-tame-no-game-kouza
 - yyoosskのメモ(更新順)　yyoossk's-memo-news
 - yyoosskのメモ(ニンテンドースイッチニュース)  yyoossk's-memo-switch-news
 - yyoosskのメモ(ブログアーカイブ)　yyoossk's-memo-blogarcive
-- 大人のためのゲーム講座　otona-no-tame-no-game-kouza
 
 ## ダウンロード
 https://github.com/yyoossk/blog-browser/releases
@@ -34,4 +34,6 @@ mamosuke<br />
 https://twitter.com/Cloud0835
 
 ## 自分のブログ
+https://yyoossk.blogspot.com/2023/04/switch-blog-browser.html<br />
 https://yyoossk.blogspot.com/search/label/
+
