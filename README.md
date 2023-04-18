@@ -31,6 +31,7 @@ crc-32<br />
 mamosuke<br />
 
 ## コンタクト
+追加してほしいブログなどがあれば言ってください
 https://twitter.com/Cloud0835
 
 ## 自分のブログ
