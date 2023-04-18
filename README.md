@@ -1,3 +1,4 @@
+<img src="assets/0.jpg" align="center" width="80%" />
 <img src="assets/1.jpg" align="center" width="80%" />
 <img src="assets/2.jpg" align="center" width="80%" />
 <img src="assets/3.jpg" align="center" width="80%" />
